@@ -1,0 +1,49 @@
+* Requirements
+** Users
+*** User data
+    - Cash
+      - Start with 100k
+      - Cash available
+      - Cash invested
+      - Cash history
+    - Username
+    - Password
+    - Stocks
+      - Stocks purchased currently
+      - Purchase history
+    - Photo 
+** Stocks
+   - Updated every half hour (tentatively)
+   - Price
+   - Name
+   - Up or down from previous day
+** Stock List
+   - Taken from S&P 500
+   - Company Name
+   - Current Price
+   - Trend over previous day
+   - Trend over previous month
+* Views
+** Profile
+   - Username
+   - Current Stocks
+   - Current Cash
+     - Invested
+     - Available
+   - Highest Performing Stock
+*** Dashboard
+     - Pie chart of stocks
+     - line graph of total investments
+** Individual Stock
+   - Name
+   - Up or down from previous day
+   - Current price
+   - line graph of previous month's performance
+** Stock List
+   - Table of:
+     1. Company Name
+     2. Current Price
+     3. Trend over previous day
+     4. Trend over previous month
+* Sub-Views
+
